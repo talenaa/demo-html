@@ -1,0 +1,17 @@
+body{
+    background-color: antiquewhite;
+    
+}
+
+
+
+footer{
+    background-color: darkred;
+}
+
+
+.titlePrincipal{
+    text-align: center;
+    font-size: 40px;
+    font-family: gothic medium;
+}
